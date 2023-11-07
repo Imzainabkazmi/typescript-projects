@@ -1,0 +1,20 @@
+{
+  "name": "@zainab.kazmi/currency.converter",
+  "version": "1.0.0",
+  "description": "currency converter",
+  "main": "converter.js",
+  "type": "module",
+  "bin": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zainab Kazmi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}

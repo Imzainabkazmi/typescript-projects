@@ -1,0 +1,17 @@
+{
+  "name": "@zainab.kazmi/word.counter",
+  "version": "1.0.0",
+  "description": "simple word counter",
+  "main": "counter.js",
+  "type": "module",
+  "bin": "counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zainab kazmi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}

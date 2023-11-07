@@ -1,0 +1,20 @@
+{
+  "name": "@zainab.kazmi/student.management.system",
+  "version": "1.0.0",
+  "description": "simple student management system",
+  "main": "management.js",
+  "type": "module",
+  "bin": "management.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zainab Kazmi",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6"
+  }
+}

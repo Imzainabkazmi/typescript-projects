@@ -1,0 +1,20 @@
+{
+  "name": "@zainab.kazmi/mini-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "type": "module",
+  "bin":"game.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node ./game.ts"
+  },
+  "keywords": [],
+  "author": "Zainab Kazmi",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.10"
+  }
+}
